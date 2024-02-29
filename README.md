@@ -1,5 +1,7 @@
-### Hi there 👋
 
+### Welcome to My GitHub Profile!
+
+I'm Azron Ahyan, an Android developer with 6 years of experience. I've also spent 3 years in iOS development and have expertise in Flutter. With over 50 apps published on the Play Store, I specialize in Java, Kotlin, Firebase, and Swift. Let's connect and explore the world of mobile development together!
 <!--
 **Ahyan-Official/Ahyan-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
