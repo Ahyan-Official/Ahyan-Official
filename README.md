@@ -1,10 +1,20 @@
-<h1 align="center">Hi 👋, I'm Azron Ahyan</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/azron-ahyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azron-ahyan" height="30" width="40" /></a>
-</p>
+# Azron Ahyan  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahyan-official&show_icons=true&locale=en&layout=compact" alt="ahyan-official" /></p>
+👋 Hi, I'm **Azron Ahyan** — a passionate software developer with vast experience in crafting seamless mobile applications for **Android** and **iOS**.  
+
+🚀 Over the years, I've developed and published numerous high-quality apps, combining innovative design with robust functionality. My expertise spans across:  
+- Native Android development (**Java, Kotlin**)  
+- iOS development (**Swift, Objective-C**)  
+- Cross-platform frameworks  
+- Backend integrations and cloud services  
+
+🌟 I love building solutions that make life easier, blending clean code with intuitive user experiences. Explore my repositories to see projects showcasing cutting-edge technologies, scalable architectures, and creative problem-solving.  
+
+📂 Check out my **[Fiverr Portfolio](https://www.fiverr.com/your-link)** to view my professional work and read reviews from satisfied clients.  
+
+📫 Let’s collaborate! Feel free to reach out or contribute to my projects.  
+
+#CodeCreateInspire  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahyan-Official&layout=compact&langs_count=10&theme=radical)
 
