@@ -9,5 +9,6 @@
 - **Native Android**: Java, Kotlin, XML, Jetpack Compose  
 - **iOS**: Swift  
 - **Cross-Platform**: React Native
-
+- 
+I do web development as well but often
 Feel free to explore my projects!
